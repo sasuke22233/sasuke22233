@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" alt="cold gothic city behind a veil of black hair" width="100%" />
+  <img src="./banner.png" alt="cold gothic city behind a veil of black hair" width="100%" />
 </div>
 
 <p align="center">
@@ -49,7 +49,7 @@ Currently drawing blueprints in **Next.js**, **Node/Nest**, **PostgreSQL**.
 Собираю **React**-продукты целиком: интерфейс, API, схема за ними.  
 TypeScript — несущий камень. Тихий UI. Строгие типы. Базы, которые не врут.
 
-Сейчас черчу чертежи на **Next.js**, **Node/Nest**, **PostgreSQL**.
+Сейчас делаю чертежи на **Next.js**, **Node/Nest**, **PostgreSQL**.
 
 > *Один красный свет в тумане. Остальное — структура.*
 
@@ -106,7 +106,6 @@ TypeScript — несущий камень. Тихий UI. Строгие тип
 
 ## ⌠  selected works  /  избранное
 
-> Pin 4–6 repositories. Captions you can paste into each repo’s description:
 
 | shrine / проект | rite / суть |
 | :--- | :--- |
@@ -114,8 +113,6 @@ TypeScript — несущий камень. Тихий UI. Строгие тип
 | **reliquary-api** | NestJS + Prisma + PostgreSQL. Auth, RBAC, typed contracts. |
 | **nave** | Next.js fullstack: SSR, server actions, quiet motion. |
 | **stained-glass** | Component library — one red light in a cold layout. |
-
-<p align="center"><sub>подставь свои репозитории · replace with your real repos</sub></p>
 
 <p align="center">
   <img src="./ornament.png" alt="" width="280" />
